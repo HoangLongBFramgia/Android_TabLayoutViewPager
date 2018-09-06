@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android_TabLayoutViewPager</string>
+    <string name="app_name">TabLayout &amp; ViewPager</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
